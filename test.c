@@ -7,5 +7,6 @@ int main(void){
   printf("POOPY FACE");
   printf("안녕하새요!");
   //YATATATTATATAT
+  //BINGBONG
   return 0;
 }
