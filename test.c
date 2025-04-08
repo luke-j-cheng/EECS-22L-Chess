@@ -5,5 +5,6 @@ int main(void){
   printf("IFJEIOFJSJOEJFSE");
   print("REAL MADRID SUCK HAHAHA");
   printf("POOPY FACE");
+  printf("안녕하새요!"):
   return 0;
 }
