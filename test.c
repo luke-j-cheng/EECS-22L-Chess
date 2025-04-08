@@ -5,7 +5,7 @@ int main(void){
   printf("IFJEIOFJSJOEJFSE");
   print("REAL MADRID SUCK HAHAHA");
   printf("POOPY FACE");
-  printf("안녕하새요!"):
+  printf("안녕하새요!");
   //YATATATTATATAT
   return 0;
 }
