@@ -6,6 +6,7 @@ int main(void){
   print("REAL MADRID SUCK HAHAHA");
   printf("POOPY FACE");
   printf("안녕하새요!");
-  /* HAHHAHAHAH */
+  //YATATATTATATAT
+  //BINGBONG
   return 0;
 }
